@@ -1,0 +1,7 @@
+onecolor = input("What is your number one favorite color? ")
+twocolor = input("What is your second favorite color? ")
+threecolor = input("What is your thrid favorite color? ")
+print()
+print("Your top three colors are: ")
+print(onecolor,twocolor,"and",threecolor) 
+print()
